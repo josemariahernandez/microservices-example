@@ -1,4 +1,5 @@
 /target/
+*/target/
 !.mvn/wrapper/maven-wrapper.jar
 
 ### IntelliJ IDEA ###
@@ -13,4 +14,4 @@
 ### Maven ###
 */mvnw.cmd
 */mvnw
-*/.mvn 
+*/.mvn
